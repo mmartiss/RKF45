@@ -1,16 +1,4 @@
 """
-Dependencies:
-- math
-- numpy
-- matplotlib.pyplot
-- scipy.integrate.solve_ivp
-- plotly.graph_objects
-- json
-
-Usage:
-- Ensure all dependencies are installed.
-- Run the script.
-
 Description:
 This script demonstrates the use of two different numerical integration algorithms,
 RK45 (via solve_ivp) and RKF45. It compares the solutions obtained from these algorithms
